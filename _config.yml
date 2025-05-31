@@ -4,6 +4,7 @@ title: Litheme
 email: jhr32272@outlook.com
 url: "https://litjhr.github.io"
 baseurl: "/litheme"
+description: Customize from <a href="https://github.com/jekyll/minima"> jekyll/minima </a>.
 # Site-wide settings
 # ------------------
 #

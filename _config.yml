@@ -1,3 +1,9 @@
+theme: minima
+author: litjhr
+title: Litheme
+email: jhr32272@outlook.com
+url: "https://litjhr.github.io"
+baseurl: "/litheme"
 # Site-wide settings
 # ------------------
 #

@@ -1,0 +1,14 @@
+---
+layout: page
+title: Ideas
+permalink: /ideas/
+---
+
+<ul>
+  {% for idea in site.ideas %}
+    <li>
+      <a href="{{ idea.url }}">{{ idea.title }}</a>
+      <span>{{ idea.date | date: "%Y-%m-%d" }}</span>
+    </li>
+  {% endfor %}
+</ul>

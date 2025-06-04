@@ -1,4 +1,4 @@
-## FORK FROM JEKYLL/MINIMA
+## FORKED FROM JEKYLL/MINIMA
 > [!WARNING]
 > **The `master` branch is under active development towards a semver-major release with non-backwards-compatible changes.**
 > 
